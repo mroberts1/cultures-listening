@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "    "
+
+format:
+  html:
+    backgroundcolor: "#86a27b"
+    linkcolor: "#faebd7"
+    css: custom.css
+    toc: false
+    self-contained: true
+    grid:
+      body-width: 650px
+lightbox: auto
+
+
+
