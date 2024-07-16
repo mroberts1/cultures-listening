@@ -8,7 +8,7 @@ format:
   html:
     backgroundcolor: "#86a27b"
     linkcolor: "#faebd7"
-    css: custom.css
+    css: paulglushak.css
     toc: false
     self-contained: true
     grid:
